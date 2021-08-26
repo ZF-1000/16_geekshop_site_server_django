@@ -1,0 +1,107 @@
+[
+{
+  "model": "authapp.shopuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$t6te7pP4u2DQ$3gpHDGNbv8VWh1qSRaeP018M6qBckF+XEAzrHEr8tIw=",
+    "last_login": "2021-08-23T05:24:27Z",
+    "is_superuser": false,
+    "username": "djangoo",
+    "first_name": "djangoo",
+    "last_name": "",
+    "email": "django@geekshop.local",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-08-05T10:16:46Z",
+    "avatar": "users_avatars/product-1_UJSC4pA.jpg",
+    "age": 30,
+    "sex": "male",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "authapp.shopuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$rDEkeKY3yWlO$pguzYVNbGmJAogmkUFdaG2JcKceJW4tPKKV4XptsFBM=",
+    "last_login": "2021-08-21T21:12:48.157Z",
+    "is_superuser": false,
+    "username": "django_1",
+    "first_name": "django_1",
+    "last_name": "",
+    "email": "gb@local.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-08-05T11:28:17.402Z",
+    "avatar": "users_avatars/product-1.jpg",
+    "age": 25,
+    "sex": "other",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "authapp.shopuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$EpPH3tnUmxNO$AurrULagG7w6jpUts9GzT3RpfMaXiKiwpv+cCrnpqmQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "django_2",
+    "first_name": "django_2",
+    "last_name": "django_2",
+    "email": "django_2@gb.local",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2021-08-19T14:11:49Z",
+    "avatar": "",
+    "age": 24,
+    "sex": "other",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "authapp.shopuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$l8doUuGCGc3X$J6pU+lQBJBDWy6HYmEa3ZGfe8APQWaPEw2R/ReaxCBY=",
+    "last_login": "2021-08-21T19:16:08.348Z",
+    "is_superuser": false,
+    "username": "django_3",
+    "first_name": "django_3",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2021-08-21T15:58:22.322Z",
+    "avatar": "",
+    "age": 25,
+    "sex": "other",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "authapp.shopuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$pSOqUu9nGIcA$eh1849WTNxvDA3r3gUlg8BlnEhFFHa8/ZrF5ZxOYibs=",
+    "last_login": "2021-08-24T09:43:03.739Z",
+    "is_superuser": true,
+    "username": "django",
+    "first_name": "django",
+    "last_name": "",
+    "email": "django@geekshop.local",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-08-24T09:29:51Z",
+    "avatar": "users_avatars/product-31.jpg",
+    "age": 33,
+    "sex": "male",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
